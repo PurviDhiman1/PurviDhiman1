@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Purvi Dhiman 👋
 
-<!--
-**PurviDhiman1/PurviDhiman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Computer Science Student | Full-Stack Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building modern web applications, AI-powered solutions, and user-focused digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Node.js
+* Express.js
+* MongoDB
+* Git & GitHub
+* C++
+
+## 🔥 Featured Projects
+
+### 🌍 ResQAI
+
+AI-powered disaster response platform with real-time reporting, AI guidance, duplicate detection, and interactive maps.
+
+### 🎨 Gully Lab Redesign
+
+Modern frontend redesign focused on UI/UX improvement, responsiveness, and cleaner user experience.
+
+## 📚 Currently Learning
+
+* DSA in C++
+* Advanced React
+* System Design
+* AI Integrations
+
+## 🌱 Goals
+
+Building impactful projects, improving problem-solving skills, and growing as a full-stack developer every day.
+
+---
+
+⭐ Always learning. Always building.
