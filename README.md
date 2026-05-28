@@ -20,11 +20,11 @@ I enjoy building modern web applications, AI-powered solutions, and user-focused
 
 ### 🌍 ResQAI
 
-AI-powered disaster response platform with real-time reporting, AI guidance, duplicate detection, and interactive maps.
+AI-powered disaster response platform that enables real-time reporting, emergency guidance, duplicate detection, and smarter response coordination using AI and maps integration.
 
 ### 🎨 Gully Lab Redesign
 
-Modern frontend redesign focused on UI/UX improvement, responsiveness, and cleaner user experience.
+Modern frontend redesign focused on responsive UI/UX, improved user experience, and cleaner product presentation for the Gully Lab platform.
 
 ## 📚 Currently Learning
 
