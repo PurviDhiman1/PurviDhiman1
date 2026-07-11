@@ -6,8 +6,8 @@ I enjoy building modern web applications, AI-powered solutions, and user-focused
 
 ## 🛠️ Tech Stack
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * React
 * Node.js
