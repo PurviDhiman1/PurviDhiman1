@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Purvi Dhiman 👋</h1>
+<h1 align="center">Hi there, I'm Purvi Dhiman 🍉 </h1>
 
 <h3 align="center">🚀 Full-Stack Developer | AI/ML Enthusiast | B.Tech CSE Student</h3>
 
