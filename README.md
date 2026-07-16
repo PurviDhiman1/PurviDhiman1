@@ -57,6 +57,15 @@ RAG-based customer support agent with conversational memory, semantic retrieval,
 
 ---
 
+### 📅 SchedulAI — AI Multi-Agent Scheduling Assistant
+> Python · LangGraph · Streamlit
+
+Multi-agent scheduling system with intelligent routing, calendar tools, slot validation, persistent memory, and automated booking workflows.
+
+🔗 [Live Demo](https://schedulai-8ebrgatjcutb2qvsau7n6h.streamlit.app) · [GitHub](https://github.com/PurviDhiman1/SchedulAI)
+
+---
+
 ### 🌍 ResQAI — AI Disaster Response Platform
 > React · Node.js · MongoDB · Google Gemini API
 
@@ -75,9 +84,9 @@ AI-powered mock interview platform with resume parsing, live WebRTC sessions, vo
 
 ## 📚 Currently Working On
 
-- 🧠 Striver's A2Z DSA Sheet — solving daily in C++
+- 🧠 Striver's A2Z DSA Sheet — 20+ problems solved, solving daily in C++
 - 🔬 ML Research Paper — Image-Based Drone Localization (No-GPS), Bennett University
-- 💼 MatchMint — AI Career Copilot (in progress)
+- 💼 MatchMint — AI Career Copilot (frontend done, backend in progress)
 
 ---
 ## 📊 GitHub Stats
@@ -95,10 +104,6 @@ AI-powered mock interview platform with resume parsing, live WebRTC sessions, vo
 - 🎖️ Deloitte Technology Job Simulation — Coding & Development
 - 🏅 Microsoft-organised Hackathon Participant — Solo built ResQAI
 - 🌟 Open Source Contributor — Pull Shark & Quickdraw badges
-
----
-
-
 
 ---
 
